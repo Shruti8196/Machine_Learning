@@ -10,7 +10,7 @@ These following code are my homework source code.
 |No.|    Link    |   Problem Type  | Tags | Score | 
 |---|------------|-------------------------|------|-------|
 |HW1|[Vertebral Column Dataset](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework1)|`Binary Classification`|`EDA` `Data Visualization` `KNN` `Majority Polling` `Weighted Decision`|100%|
-|HW2|[Combined Cycle Power Plant](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework2)|`Regression`|`Multiple Linear Regression(OLS)` `Capturing non-linearities` `Exploring interactions` `KNN Regression`|100%|
+|HW2|[Combined Cycle Power Plant](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework2)|`Multiple Linear Regression`|`Capturing non-linearities` `Exploring interactions` `KNN Regression`|100%|
 |HW3|[Time Series Classification - Part1](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework3)|`Feature Extraction`|`Data Augmentation` `Data Preprocessing` `Bootstrap`|100%|
 |HW44|[Time Series Classification - Part2](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework4)|`Binary Classification` `MultiClass Classification`|`Recursive Feature Elimination` `L1 penalized Logistic Regression` `Multinomial Naive Bayes` `Gaussian Naive Bayes`|100%|
 |HW5|[Acute Inflamations, Communities and Crime Data](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework5)|`Multiclass Classification`|`Decision Trees` `LASSO and Boosting for Regression` `PCR` `XGBoost Regression`|100%|
