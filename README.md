@@ -1,21 +1,18 @@
-## DSCI_553 (Foundations and Applications of Data Mining)
+## DSCI_552 (Machine Learning for Data Science)
 
 #### Description
-Data mining is a foundational piece of the data analytics skill set. At a high level, it allows the
-analyst to discover patterns in data, and transform it into a usable product. The course will
-taught data mining algorithms for analyzing very large data sets. It had an applied focus, in
-that it was meant for preparing students to utilize topics in data mining to solve real world
-problems
+ractical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
+
 
 #### Homeworks
 These following code are my homework source code.
 
-|No.|    Link    |   Programming Language  | Tags | Score | 
+|No.|    Link    |   Problem Type  | Tags | Score | 
 |---|------------|-------------------------|------|-------|
-|1|[Data Exploration](https://github.com/Shruti8196/Projects/tree/master/Data_Mining/Assignment1)|`Python`|`MapReduce` `Pyspark`|100%|
-|2|[Finding Frequent Itemsets](https://github.com/Shruti8196/Projects/tree/master/Data_Mining/Assignment2)|`Python`|`Apriori` `SON (Savasere, Omiecinski, and Navathe) Algorithm` `Pyspark`|100%|
-|3|[Building a Recommendation System](https://github.com/Shruti8196/Projects/tree/master/Data_Mining/Assignment3)|`Python`|`Collaborative Filtering` `MinHash` `LSH` `Pyspark`|100%|
-|4|[Community Detection](https://github.com/Shruti8196/Projects/tree/master/Data_Mining/Assignment4)|`Python`|`Betweenness Centrality` `Communities Detection` `Girvan-Newman Algorithm` `Pyspark`|100%|
-|5|[Stream Mining](https://github.com/Shruti8196/Projects/blob/master/Data_Mining/Assignment5)|`Python`|`Bloom Filter` `Flajolet-Martin Algorithm` `Reservoir Sampling` `Pyspark`|100%|
-|6|[Clustering](https://github.com/Shruti8196/Projects/blob/master/Data_Mining/Assignment6)|`Python`|`K-Means` `Bradley-Fayyad-Reina (BFR) Algorithm` `Pyspark`|100%|
-|7|[Competition - Recommendation System](https://github.com/Shruti8196/Projects/tree/master/Data_Mining/Competition)|`Python`|`Model Based Collaborative Filtering` `Pyspark`|Test RMSE: 0.978, Score: 100%|
+|HW1|[Vertebral Column Dataset](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework1)|`Binary Classification`|`EDA` `Data Visualization` `KNN` `Majority Polling` `Weighted Decision`|100%|
+|HW2|[Combined Cycle Power Plant](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework2)|`Regression`|`Multiple Linear Regression(OLS)` `Capturing non-linearities` `Exploring interactions` `KNN Regression`|100%|
+|HW3|[Time Series Classification - Part1](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework3)|`Feature Extraction`|`Data Augmentation` `Data Preprocessing` `Bootstrap`|100%|
+|HW44|[Time Series Classification - Part2](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework4)|`Binary Classification` `MultiClass Classification`|`Recursive Feature Elimination` `L1 penalized Logistic Regression` `Multinomial Naive Bayes` `Gaussian Naive Bayes`|100%|
+|HW5|[Acute Inflamations, Communities and Crime Data](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework5)|`Multiclass Classification`|`Decision Trees` `LASSO and Boosting for Regression` `PCR` `XGBoost Regression`|100%|
+|HW6|[APS Failure at Scania Trucks](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework6)|`Classification`|`EDA` `Tree Based Models` `SMOTE`|100%|
+|HW7|[Competition - Recommendation System](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework7)|`Multi-class and Multi-Label Classification`|`SVM`  `K-Means Clustering` `Monte-Carlo Simulation`|Test RMSE: 0.978, Score: 100%|
