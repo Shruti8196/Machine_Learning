@@ -7,12 +7,12 @@ ractical applications of machine learning techniques to real-world problems. Use
 #### Homeworks
 These following code are my homework source code.
 
-|No.|    Link    |   Problem Type  | Tags | Score | 
-|---|------------|-------------------------|------|-------|
-|HW1|[Vertebral Column Dataset](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework1)|`Binary Classification`|`EDA` `KNN` `Majority Polling` `Weighted Decision`|100%|
-|HW2|[Combined Cycle Power Plant](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework2)|`Multiple Linear Regression`|`Capturing non-linearities` `Exploring interactions` `KNN Regression`|100%|
-|HW3|[Time Series Classification - Part1](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework3)|`Feature Extraction`|`Data Augmentation` `Data Preprocessing` `Bootstrap`|100%|
-|HW4|[Time Series Classification - Part2](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework4)|`Binary Classification` `MultiClass Classification`|`Recursive Feature Elimination` `L1 penalized Logistic Regression` `Multinomial Naive Bayes` `Gaussian Naive Bayes`|100%|
-|HW5|[Acute Inflamations, Communities and Crime Data](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework5)|`Multiclass Classification`|`Decision Trees` `LASSO and Boosting for Regression` `PCR` `XGBoost Regression`|100%|
-|HW6|[APS Failure at Scania Trucks](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework6)|`Binary Classification`|`EDA` `Random Forest` `XGBoost and Model Trees` `SMOTE`|100%|
-|HW7|[Competition - Recommendation System](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework7)|`Multi-class and Multi-Label Classification`|`SVM`  `K-Means Clustering` `Monte-Carlo Simulation`|100%|
+|No.|    Link    |   Problem Type  | Tags | 
+|---|------------|-------------------------|
+|HW1|[Vertebral Column Dataset](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework1)|`Binary Classification`|`EDA` `KNN` `Majority Polling` `Weighted Decision`|
+|HW2|[Combined Cycle Power Plant](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework2)|`Multiple Linear Regression`|`Capturing non-linearities` `Exploring interactions` `KNN Regression`|
+|HW3|[Time Series Classification - Part1](https://github.com/Shruti8196/Machine_Learning/blob/master/Homework3)|`Feature Extraction`|`Data Augmentation` `Data Preprocessing` `Bootstrap`|
+|HW4|[Time Series Classification - Part2](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework4)|`Binary Classification` `MultiClass Classification`|`Recursive Feature Elimination` `L1 penalized Logistic Regression` `Multinomial Naive Bayes` `Gaussian Naive Bayes`|
+|HW5|[Acute Inflamations, Communities and Crime Data](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework5)|`Multiclass Classification`|`Decision Trees` `LASSO and Boosting for Regression` `PCR` `XGBoost Regression`|
+|HW6|[APS Failure at Scania Trucks](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework6)|`Binary Classification`|`EDA` `Random Forest` `XGBoost and Model Trees` `SMOTE`|
+|HW7|[Competition - Recommendation System](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework7)|`Multi-class and Multi-Label Classification`|`SVM`  `K-Means Clustering` `Monte-Carlo Simulation`|
