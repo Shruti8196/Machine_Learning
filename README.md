@@ -1,8 +1,6 @@
-## DSCI_552 (Machine Learning for Data Science)
 
 #### Description
-ractical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
-
+Practical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
 
 #### Homeworks
 These following code are my homework source code.
