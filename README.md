@@ -13,4 +13,4 @@ These following code are my homework source code.
 |HW4|[Time Series Classification - Part2](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework4)|`Binary Classification` `Multiclass Classification`|`Recursive Feature Elimination` `L1 penalized Logistic Regression` `Multinomial Naive Bayes` `Gaussian Naive Bayes`|
 |HW5|[Acute Inflamations, Communities and Crime Data](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework5)|`Multiclass Classification`|`Decision Trees` `LASSO and Boosting for Regression` `PCR` `XGBoost Regression`|
 |HW6|[APS Failure at Scania Trucks](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework6)|`Binary Classification`|`EDA` `Random Forest` `XGBoost and Model Trees` `SMOTE`|
-|HW7|[Multiclass Classification Anuran Cells](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework7)|`Multiclass Classification`|`SVM`  `K-Means Clustering` `Monte-Carlo Simulation`|
+|HW7|[Multiclass Classification Anuran Calls](https://github.com/Shruti8196/Machine_Learning/tree/master/Homework7)|`Multiclass Classification`|`SVM`  `K-Means Clustering` `Monte-Carlo Simulation`|
